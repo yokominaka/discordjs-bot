@@ -1,0 +1,4 @@
+every event file will hold three things:
+name: the name of the event we are listiening for
+once: a boolean that states does this event happen once or happen constantly
+execute: the function that run when the event triggers
